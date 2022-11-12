@@ -22,5 +22,7 @@ Generar Migraciones
 
 Como extra Agregue un dockercompose por si se llega a tener problemas para correrle la aplicacion
 ![image](https://user-images.githubusercontent.com/26952057/201448858-8748eb1c-1358-436f-bed7-ecd018befe73.png)
+
+Un vdeo corto del funcionamiento
 https://user-images.githubusercontent.com/26952057/201449204-aa1d7e81-574c-4938-9ce8-c70ae79ffeea.mp4
 
